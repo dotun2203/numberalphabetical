@@ -1,0 +1,15 @@
+{
+  "name": "alphabetical-number",
+  "version": "1.0.0",
+  "description": "a package to help you arrange any set of given numbers alphabetically",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dotun",
+  "license": "MIT",
+  "dependencies": {
+    "written-number-js": "^0.11.2"
+  }
+}
